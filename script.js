@@ -15,6 +15,13 @@ for (let i = 0; i < array1.length; i++) {
       console.log(element);
     }
 }
+//anotherway 
+// for (let result of array1) {
+//     if (result > 0 && result < 10) {
+//       console.log(result);
+//     }
+//   }
+
 //task_3
 let array2 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 while ((array2 = 5)) {
